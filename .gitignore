@@ -1,0 +1,11 @@
+sources.*
+.cm/*
+ast/
+exe/
+chk/
+esc/
+asm/
+ra/
+pup[1-2]/*
+tiger.lex.*
+tiger.grm.*

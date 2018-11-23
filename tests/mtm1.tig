@@ -1,0 +1,6 @@
+/* use one label for same string */
+let var s1 := "hello"
+    var s2 := "hello"
+    var s3 := "hello"
+in s1
+end

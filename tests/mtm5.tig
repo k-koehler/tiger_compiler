@@ -1,0 +1,7 @@
+/* constant folding */
+let 
+  var s1 := 4 / 2
+  var s2 := 0 / 4
+in
+  s1
+end
